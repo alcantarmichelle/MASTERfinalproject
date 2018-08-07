@@ -1,0 +1,81 @@
+/* Button Design */
+
+.button1 {
+  display: inline-block;
+  /* padding: 15px 25px;
+  font-size: 24px; */
+  cursor: pointer;
+  text-align: center;
+  /* text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50; */
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px gray;
+  font-family: 'Gilda Display', serif;
+  font-size: 15px;
+  float: left;
+  position: relative;
+  padding: 0px 10px;
+  /* border-radius: 10px; */
+  width: 155px;
+  height: 50px;
+  margin: -25px auto 20px auto;
+  position:static;
+  margin-left: 120px;
+  margin-right: 10px;
+  vertical-align: top;
+}
+
+.button1:hover {background-color: gray}
+
+.button1:active {
+  background-color: gray;
+  box-shadow: 0 5px gray;
+  transform: translateY(4px);
+}
+
+.logo {
+  padding-top: -700px;
+  float:left;
+  width: 85px;
+  height:85px;
+}
+
+h1 {
+  background-color: #89818C;
+  font-size: 65px;
+  text-align: center;
+  color: white;
+  font-family: 'Montserrat Subrayada', sans-serif;
+}
+body{
+
+  background-color: #EAE9EA
+}
+h2{
+  font-family: 'Gilda Display', serif;
+font-size: 35px;
+}
+h3 {
+  font-family: 'Gilda Display', serif;
+font-size: 25px;
+}
+h4{
+  font-family: 'Gilda Display', serif;
+font-size: 20px;
+}
+h5{
+  font-family: 'Gilda Display', serif;
+font-size: 25px;
+background-color: #A1D2CE;
+}
+h6{
+  font-family: 'Gilda Display', serif;
+font-size: 30px;
+}
+h7{
+  font-family: 'Gilda Display', serif;
+font-size: 22px;
+}

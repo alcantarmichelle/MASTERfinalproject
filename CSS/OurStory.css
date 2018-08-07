@@ -1,0 +1,147 @@
+/* Button Design */
+
+.button1 {
+  display: inline-block;
+  /* padding: 15px 25px;
+  font-size: 24px; */
+  cursor: pointer;
+  text-align: center;
+  /* text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50; */
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px gray;
+  font-family: 'Gilda Display', serif;
+  font-size: 15px;
+  float: left;
+  position: relative;
+  padding: 0px 10px;
+  /* border-radius: 10px; */
+  width: 155px;
+  height: 50px;
+  margin: -25px auto 20px auto;
+  position:static;
+  margin-left: 120px;
+  margin-right: 10px;
+  vertical-align: top;
+}
+
+.button1:hover {background-color: gray}
+
+.button1:active {
+  background-color: gray;
+  box-shadow: 0 5px gray;
+  transform: translateY(4px);
+}
+.logo {
+  padding-top: -700px;
+  float:left;
+  width: 85px;
+  height:85px;
+}
+h1 {
+  background-color: #89818C;
+font-size: 65px;
+text-align: center;
+color: white;
+font-family: 'Montserrat Subrayada', sans-seri;
+}
+body{
+  background-color:white;
+}
+h2{
+  font-family: 'Gilda Display', serif;
+font-size: 20px;
+}
+h8 {
+  font-family: 'Courgette', cursive;
+font-size: 32px;
+}
+h4{
+  float: right;
+  font-family: 'Gilda Display', serif;
+font-size: 20px;
+position: absolute;
+top: 350px;
+margin-left: 450px;
+}
+h5{
+  font-family: 'Gilda Display', serif;
+font-size: 20px;
+margin-left: 600px;
+position: absolute;
+top:800px;
+}
+h6{
+  float:right;
+  font-family: 'Gilda Display', serif;
+font-size: 20px;
+}
+h7{
+  font-family: 'Gilda Display', serif;
+font-size: 20px;
+position: absolute;
+top:1050px;
+margin-left: 680px;
+}
+h9{
+  font-family: 'Gilda Display';
+  position: absolute;
+  top: 450px;
+  margin-left: 250px;
+  font-size: 20px;
+}
+h10{
+  float: right;
+}
+h11{
+  position: absolute;
+  top: 700px;
+/* float: left; */
+margin-left: 10px;
+}
+h12{
+  font-family: 'Gilda Display', serif;
+  font-size: 20px;
+  margin-left: 600px;
+  position: absolute;
+  top:900px;
+}
+h13{
+  position: absolute;
+  top: 1200px;
+  margin-left: 450px;
+  font-family: 'Gilda Display', serif;
+font-size: 20px;
+}
+h14{
+  position: absolute;
+  top: 1250px;
+  margin-left: 200px;
+  font-family: 'Gilda Display', serif;
+  font-size: 20px;
+}
+h6{  position: absolute;
+  top: 1600px;
+  margin-left: 800px;
+  font-family: 'Gilda Display', serif;
+  font-size: 20px;
+
+}
+h15 {
+  position: absolute;
+  top: 1700px;
+  margin-left: 800px;
+  font-family: 'Gilda Display', serif;
+  font-size: 20px;
+}
+
+#ashna {
+  position: absolute;
+  top: 1600px;
+  margin-right: 500px;
+  font-family: 'Gilda Display', serif;
+  font-size: 20px;
+}
