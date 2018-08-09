@@ -65,7 +65,7 @@ h4{
 font-size: 20px;
 position: absolute;
 top: 350px;
-margin-left: 450px;
+margin-left: 250px;
 }
 h5{
   font-family: 'Gilda Display', serif;
@@ -112,14 +112,14 @@ h12{
 h13{
   position: absolute;
   top: 1200px;
-  margin-left: 450px;
+  margin-left: 180px;
   font-family: 'Gilda Display', serif;
 font-size: 20px;
 }
 h14{
   position: absolute;
   top: 1250px;
-  margin-left: 200px;
+  margin-left: 180px;
   font-family: 'Gilda Display', serif;
   font-size: 20px;
 }
@@ -136,7 +136,14 @@ h15 {
   margin-left: 800px;
   font-family: 'Gilda Display', serif;
   font-size: 20px;
+
 }
+
+h16{
+  position: absolute;
+  top: 1450px;
+/* float: left; */
+margin-left: 10px;
 
 #ashna {
   position: absolute;
